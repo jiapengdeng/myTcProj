@@ -1,0 +1,21 @@
+{
+  "name": "myTcProj",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jiapengdeng/myTcProj",
+  "authors": [
+    "邓加鹏"
+  ],
+  "description": "该项目是工作中的页面，主要是尝试模块化编程",
+  "main": "https://github.com/jiapengdeng/myTcProj",
+  "keywords": [
+    "模块化"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
